@@ -18,6 +18,10 @@ p {
   line-height: 1.6;
 }
 
+.link-email {
+  color: #6479CD;
+}
+
 .container {
   max-width: 800px;
   margin: 0 auto;
